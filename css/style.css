@@ -643,6 +643,10 @@
 .contact-form {
     background: #26d48c;
 }
+.rounded{
+    max-width: 100%;
+    
+}
 
 /*** Contact End ***/
 
