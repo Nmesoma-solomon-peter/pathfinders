@@ -632,6 +632,9 @@
     border-radius: 10px;
     z-index: -1;
 }
+.contact_text{
+    font-size: 1.03em;
+}
 
 .contact-map {
     background: #26d48c;
