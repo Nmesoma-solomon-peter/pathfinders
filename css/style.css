@@ -295,6 +295,10 @@
     .carousel-item p {
         font-size: 14px !important;
     }
+    .contact_text{
+        font-size: 10px;
+    }
+    
 }
 
 .page-header {
@@ -631,9 +635,6 @@
     background-size: cover;
     border-radius: 10px;
     z-index: -1;
-}
-.contact_text{
-    font-size: 10px;
 }
 
 .contact-map {
